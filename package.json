@@ -1,0 +1,29 @@
+{
+  "name": "skala",
+  "version": "0.0.1",
+  "description": "skala build with tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "skala": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mualiflihawa/skala.git"
+  },
+  "keywords": [
+    "template",
+    "tailwindcss"
+  ],
+  "author": "mu'alif lihawa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mualiflihawa/skala/issues"
+  },
+  "homepage": "https://github.com/mualiflihawa/skala#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.1",
+    "postcss": "^8.4.5",
+    "postcss-import": "^14.0.2",
+    "tailwindcss": "^2.2.16"
+  }
+}
