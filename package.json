@@ -4,7 +4,7 @@
   "description": "skala build with tailwindcss",
   "main": "index.js",
   "scripts": {
-    "skala": "echo \"Error: no test specified\" && exit 1"
+    "skala": "tailwind -i ./src/scss/main.scss --postcss -o ./example/dist/css/skala.css"
   },
   "repository": {
     "type": "git",
