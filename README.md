@@ -1,7 +1,7 @@
 # skala
 skala build with tailwindcss
 
-##colors
+# Colors
 primary, info, success, warning, danger, secondary
 
 - colors-dark
